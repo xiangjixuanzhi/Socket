@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  SocketClass.cpp
+c:\users\administrator\desktop\vsprojects\testsocket\testsocket\socketclass.cpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\desktop\vsprojects\testsocket\testsocket\socketclass.cpp(189): warning C4018: '<': signed/unsigned mismatch
+  TestSocket.cpp
+c:\users\administrator\desktop\vsprojects\testsocket\testsocket\testsocket.cpp(26): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  TestSocket.vcxproj -> C:\Users\Administrator\Desktop\VSProjects\TestSocket\Debug\TestSocket.exe
